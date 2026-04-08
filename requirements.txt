@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+autogluon.timeseries
+scikit-learn
+tqdm
+optuna
+pyarrow
